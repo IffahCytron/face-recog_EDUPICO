@@ -1,0 +1,4 @@
+CIRCUITPY_WIFI_SSID = "Your_WiFi_SSID"
+CIRCUITPY_WIFI_PASSWORD = "Your_WiFi_Password"
+botToken = "Your_Telegram_Bot_Token"
+chat_id = "Your_Telegram_Chat_ID"
